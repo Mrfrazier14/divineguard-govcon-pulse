@@ -1,5 +1,7 @@
 # DivineGuard GovCon Pulse
 
+GovCon Pulse is a DivineGuard IT Services LLC product initiative, founded and created by Aaron Frazier Jr.
+
 A runnable Python and SQLite starter for a government-contract opportunity pipeline. It stores a title, official source link, stage and optional evidence link. It is a local command-line application, with no external dependencies, frontend, live SAM.gov import or cloud synchronization.
 
 ## Quick start
